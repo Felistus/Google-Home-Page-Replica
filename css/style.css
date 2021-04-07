@@ -111,15 +111,12 @@ footer{
     color: green;
 }
 /* media query */
-@media screen and (max-width: 800px) {
-    .searchContainer{
-        margin: 0 15px;
-    }
+@media screen and (max-width: 790px) {
     .footer-two{
         flex-direction: column;
         text-align: center;
     }
     .middle{
         display: none;
-    }   
+    }  
 }
