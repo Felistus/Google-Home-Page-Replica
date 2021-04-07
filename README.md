@@ -2,4 +2,5 @@
 a sample replica of the Google Home Page
 
 ## Link
-[Responsive Design](https://felistus.github.io/zuri-responsive-design-starter/.)
+[Replica Google Homepage Design](https://felistus.github.io/Google-Home-Page-Replica/)
+
